@@ -1,0 +1,14 @@
+.navbar .brand, .navbar .nav > li > a {
+    color: #777 !important;
+}
+
+.navbar-default .navbar-brand {
+  color: red !important;
+}
+
+.navbar .brand, .navbar .nav > li > a:hover {
+    color: red !important;
+}
+
+
+#mapid { height: 800px; width: 100%; }
