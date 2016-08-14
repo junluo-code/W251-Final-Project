@@ -12,3 +12,25 @@
 
 
 #mapid { height: 800px; width: 100%; }
+
+table, td, tr{
+        padding: 5px !important;
+
+}
+.eventDetail, td{
+    width: 95%;
+    border: grey solid 1px;
+    border-collapse: collapse;
+
+}
+
+.sectionHeader{
+    background-color: #566573  ;
+    color: white;
+    font-size: 20px;
+}
+
+.leftCell{
+    width:50px;
+
+}
