@@ -34,3 +34,15 @@ table, td, tr{
     width:50px;
 
 }
+
+div .container{
+
+
+    width:100% !important;
+
+}
+
+div .col-xs-8{
+
+    padding-left: 0px !important;
+}
